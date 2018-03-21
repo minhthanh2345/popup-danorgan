@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://vietthanhmusic.vn/dan-piano-cu' target='_blank'><img src='https://vietthanhmusic.vn/image/catalog/Tin tức/banner-khuyen-mai-piano.jpg' width='500px'/>Khuyến Mãi Đến 19%</a>. Gọi ngay 0909 736 782 Ms Hương. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://danorrgangiare.blogspot.com/' target='_blank'><img src='https://vietthanhmusic.vn/image/catalog/Tin tức/banner-khuyen-mai-piano.jpg' width='500px'/>Khuyến Mãi Đến 19%</a>. Gọi ngay 0909 736 782 Ms Hương. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
